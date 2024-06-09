@@ -1,0 +1,89 @@
+Mobile: The client is unable to receive his company Email on his Mobile phone.
+
+Ensure the email app is configured correctly with the correct server settings.
+Verify the user's login credentials.
+Check if there are connectivity issues (Wi-Fi or mobile data).
+Ensure that email synchronization is enabled.
+Confirm that there is enough storage space on the mobile phone.
+
+Network: A User’s laptop is unable to connect to the company Network.
+
+Verify if the laptop's Wi-Fi is turned on and connected to the correct network.
+Check if other devices can connect to the network.
+Restart the laptop and the router.
+Ensure the network drivers are up to date.
+Run network diagnostics to identify and fix the issue.
+
+Office: Microsoft Office is not starting. You have reinstalled and it is still not coming up.
+
+Check for any pending Windows updates and install them.
+Run Office in Safe Mode to see if it starts without add-ins.
+Repair Office installation through Control Panel.
+Check for any conflicting software or antivirus settings.
+Look at event viewer logs for specific errors related to Office.
+
+Virus: You discover that a User’s system has been attacked by a Virus.
+
+Disconnect the system from the network to prevent spread.
+Run a full system scan using a reliable antivirus tool.
+Remove or quarantine the detected virus.
+Update the antivirus software and definitions.
+Restore the system from the most recent backup if necessary.
+
+Excel: A user complains that he is seeing “ ######### “ in a lot of his Excel Cells. He wants a fix.
+
+The "########" indicates that the cell content is too wide for the cell.
+Resize the column width to fit the data.
+Ensure the cell format matches the data type (e.g., date, number).
+Check for any custom formatting that might be causing the issue.
+
+Router: There was a fault with the Router and a new Linksys router has just been given to you to install.
+
+Connect the router to the modem and power it on.
+Connect a computer to the router via Ethernet cable for initial setup.
+Access the router's web interface through the provided IP address.
+Configure the Wi-Fi settings, including SSID and password.
+Update the router firmware if necessary and test the network connectivity.
+
+Windows Server: The computer with Windows 2000 Server installed was used as a file server for a long period of time. You have noticed that the system performance has decreased and the file operation time has increased. You suspect that one of the possible causes of the system performance decrease is a disk fragmentation. What action will you take to find out if the disk is fragmented?
+
+Open the Disk Defragmenter tool from the system tools.
+Analyze the disk to check the fragmentation level.
+If the disk is fragmented, proceed with defragmentation.
+Monitor performance improvements post-defragmentation.
+
+File Integrity: Your team member has accidentally deleted a lot of files on a User’s Hard Disk. There are no Back ups for these files. The client is asking for those files as a matter of Urgency. You are the only one on ground. How would you solve this?
+
+Stop any further write operations to the hard disk to prevent data overwriting.
+Use a reliable data recovery software to scan the hard disk for recoverable files.
+Restore the recovered files to a different storage location.
+Inform the client about the recovery status and recommend setting up a backup system.
+
+Unix / Linux: List 10 Linux Commands you are familiar with and what they do.
+
+ls: Lists directory contents.
+cd: Changes the current directory.
+pwd: Prints the current working directory.
+cp: Copies files or directories.
+mv: Moves or renames files or directories.
+rm: Removes files or directories.
+chmod: Changes file permissions.
+chown: Changes file owner and group.
+ps: Displays current running processes.
+grep: Searches for patterns within files.
+
+New Computer: Highlight 5 issues to watch out for in setting up a new computer for a new user.
+
+Ensure the operating system is installed and updated.
+Install necessary drivers for hardware components.
+Set up user accounts and permissions.
+Install essential software and applications required for the user's tasks.
+Configure security settings, including antivirus and firewall.
+
+Current Affairs in Tech: Briefly state who the following are and what they do/did:
+
+Elon Musk: CEO of SpaceX and Tesla, involved in various tech ventures including Neuralink and The Boring Company.
+Michael Dell: Founder and CEO of Dell Technologies, a major player in computer technology and services.
+Paul Allen: Co-founder of Microsoft alongside Bill Gates, a philanthropist, and owner of sports teams.
+Steve Wozniak: Co-founder of Apple Inc., key developer of the Apple I and Apple II computers.
+Sim Shagaya: Nigerian entrepreneur, founder of Konga.com, one of Nigeria's largest e-commerce platforms.
